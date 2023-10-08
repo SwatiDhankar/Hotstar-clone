@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>Disney + Hotstar Clone ...</h1>
+      <p>New Project</p>
     </div>
   );
 }
